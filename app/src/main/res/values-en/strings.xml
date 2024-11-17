@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="temperature">Temperature: </string>
+    <string name="hint_temperature">Enter the temperature</string>
+    <string name="celsius">Celsius</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="msg_error">Error during conversion!</string>
+    <string name="invalid_number">Please enter a valid value.</string>
+    <string name="para">To: </string>
+    <string name="de">From: </string>
+    <string name="converter">Convert</string>
+    <string name="msg_error_insere_escala_inicial">Please enter the initial scale.</string>
+    <string name="msg_error_insere_escala_final">Please enter the final scale.</string>
+    <string name="conversao_nao_valida">The temperature and scale is the same as what was entered!</string>
+    <string name="insira_valor_valido">Please enter a valid value.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor de Temperatura</string>
+    <string name="temperature">Temperatura: </string>
+    <string name="hint_temperature">Ingrese la temperatura</string>
+    <string name="celsius">Celsius</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="msg_error">¡Error durante la conversión!</string>
+    <string name="invalid_number">Por favor, ingrese un valor válido.</string>
+    <string name="para">A: </string>
+    <string name="de">De: </string>
+    <string name="converter">Convertir</string>
+    <string name="msg_error_insere_escala_inicial">Por favor, ingrese la escala inicial.</string>
+    <string name="msg_error_insere_escala_final">Por favor, ingrese la escala final.</string>
+    <string name="conversao_nao_valida">¡La temperatura y la escala son las mismas que las ingresadas!</string>
+    <string name="insira_valor_valido">Por favor, ingrese un valor válido.</string>
+</resources>
