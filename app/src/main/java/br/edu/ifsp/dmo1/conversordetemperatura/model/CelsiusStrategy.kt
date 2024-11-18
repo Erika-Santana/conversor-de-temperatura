@@ -1,6 +1,6 @@
 package br.edu.ifsp.dmo1.conversordetemperatura.model
 
-class CelsiusStrategy() : ConversorTemperatura {
+object CelsiusStrategy : ConversorTemperatura {
 
     override fun getScale(): String {
         return "Cº"

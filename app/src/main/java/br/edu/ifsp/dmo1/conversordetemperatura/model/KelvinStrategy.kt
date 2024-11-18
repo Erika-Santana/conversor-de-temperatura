@@ -1,6 +1,6 @@
 package br.edu.ifsp.dmo1.conversordetemperatura.model
 
-class KelvinStrategy() : ConversorTemperatura {
+object KelvinStrategy : ConversorTemperatura {
     override fun getScale(): String {
         return "Kº"
     }

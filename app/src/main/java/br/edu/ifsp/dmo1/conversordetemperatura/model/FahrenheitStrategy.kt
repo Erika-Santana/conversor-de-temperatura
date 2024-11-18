@@ -1,6 +1,8 @@
 package br.edu.ifsp.dmo1.conversordetemperatura.model
 
-class FahrenheitStrategy: ConversorTemperatura{
+object FahrenheitStrategy: ConversorTemperatura{
+   
+
     override fun getScale(): String {
         return "Fº"
     }

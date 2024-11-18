@@ -25,9 +25,9 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener, Vi
 
     override fun onCreate(savedInstanceState: Bundle?) {
 
-        celsius = CelsiusStrategy()
-        fahrenheit = FahrenheitStrategy()
-        kelvinStrategy = KelvinStrategy()
+        celsius = CelsiusStrategy
+        fahrenheit = FahrenheitStrategy
+        kelvinStrategy = KelvinStrategy
 
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
